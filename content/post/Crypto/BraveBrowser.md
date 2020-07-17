@@ -1,3 +1,9 @@
+---
+date: 2020-7-17
+title: Brave Browser
+image: 'brave.jpg'
+---
+
 # Brave Browser
 The Brave Browser is a new way at looking at privacy with your internet presence. The Brave browser is built on chromium, the same free open source browser google chrome is built on. However unlike google chrome it does not track you from site to site. 
 
@@ -23,5 +29,5 @@ Using Brave for several months so far I have and will continue to publish my mon
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzk3MzY0MV19
+eyJoaXN0b3J5IjpbLTE5Mjg4OTExMl19
 -->
