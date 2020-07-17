@@ -75,7 +75,7 @@ A good tripod is nice to help you get in your own photos. The timer and flash ar
 
 |           |            |
 |:---------:|:----------:|
-|![Photo1](../../../../../img/posts/Cameras/Onestep2/home 1.jpg) |![Photo1](../../../../../img/posts/Cameras/Onestep2/home 2.jpg)|
+|![Photo1](../../../../../img/posts/Cameras/Onestep2/home#1.jpg) |![Photo1](../../../../../img/posts/Cameras/Onestep2/home 2.jpg)|
 
   
 ##### *I've yet to have a perfect centered photo. I assume this is because I have yet to take the photo. My brother in photo 1 was completely cropped off :( .
@@ -84,5 +84,5 @@ A good tripod is nice to help you get in your own photos. The timer and flash ar
 
 I have done an indepth review on this product [here](../review/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzUyNzA3OV19
+eyJoaXN0b3J5IjpbLTYzNTY2ODA0MiwtNjEzNTI3MDc5XX0=
 -->
